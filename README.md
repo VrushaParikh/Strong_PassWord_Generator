@@ -7,4 +7,4 @@ Check Your Email if it has been pwned!!
 https://haveibeenpwned.com/
 But if you want better security,then you'll actually need unique passwords for each and every website.And they should really be strong passwords, not 123456, or qwerty.
 
-![](animation.gif)
+![](Animation.gif)
